@@ -1,0 +1,47 @@
+# Overall
+"models/"                                                                                       "build/header_guard"
+"models/"                                                                                       "build/c++11"
+
+# Modelzoo
+"models/research/cv/FaceRecognition/infer/mxbase/facerecognition/FaceRecognition.h"  "runtime/references"
+"models/research/cv/FaceRecognition/infer/mxbase/facerecognition/FaceRecognition.cpp"  "runtime/references"
+"models/research/cv/FaceRecognition/infer/mxbase/facerecognition/main_opencv.cpp"  "runtime/references"
+"models/research/cv/FaceRecognitionForTracking/infer/mxbase/src/FaceRecognitionForTracking.h"  "runtime/references"
+"models/research/cv/FaceRecognitionForTracking/infer/mxbase/src/FaceRecognitionForTracking.cpp"  "runtime/references"
+"models/research/cv/FaceRecognitionForTracking/infer/util/plugins/MxpiTransposePlugin.h"  "runtime/references"
+"models/research/cv/FaceRecognitionForTracking/infer/util/plugins/MxpiTransposePlugin.h"  "build/namespaces"
+
+"models/research/cv/FaceQualityAssessment/infer/mxbase/src/FQA.h"  "runtime/references"
+"models/research/cv/FaceQualityAssessment/infer/mxbase/src/FQA.cpp"  "runtime/references"
+"models/research/cv/FaceQualityAssessment/infer/util/plugins/MxpiTransposePlugin.h"  "runtime/references"
+"models/research/cv/FaceQualityAssessment/infer/util/plugins/MxpiTransposePlugin.h"  "build/namespaces"
+"models/research/cv/FaceQualityAssessment/infer/util/plugins/MxpiTransposePlugin.cpp"  "runtime/references"
+
+"models/research/cv/stgcn/infer/mxbase/src/stgcnUtil.h" "runtime/references"
+"models/research/cv/stgcn/infer/mxbase/src/stgcnUtil.cpp" "runtime/references""models/official/cv/resnext/infer/mxbase/src/resnext50Classify.h" "runtime/references"
+"models/research/cv/stgcn/infer/mxbase/src/main.cpp" "runtime/references"
+
+
+"models/research/cv/FaceAttribute/infer/mxbase/faceattribute/FaceAttribute.h" "runtime/references"
+"models/research/cv/FaceAttribute/infer/mxbase/faceattribute/FaceAttribute.cpp" "runtime/references"
+
+"models/official/cv/lenet/infer/mxbase/LenetOpencv.h" "runtime/references"
+"models/official/cv/lenet/infer/mxbase/main_opencv.cpp" "runtime/references"
+
+"models/research/cv/squeezenet1_1/infer/mxbase/Squeezenet1_1ClassifyOpencv.h"  "runtime/references"
+"models/research/cv/squeezenet1_1/infer/mxbase/main_opencv.cpp"  "runtime/references"
+"models/research/cv/squeezenet1_1/infer/mxbase/Squeezenet1_1ClassifyOpencv.cpp"  "runtime/references"
+"models/official/cv/vgg16/infer/mxbase/src/Vgg16Classify.h"  "runtime/references"
+"models/official/cv/resnext/infer/mxbase/src/resnext50Classify.h" "runtime/references"
+
+"models/research/cv/SE-Net/infer/mxbase/src/Senet_resnet50_opencv.h"                 "runtime/references"
+"models/research/cv/SE-Net/infer/mxbase/src/main.cpp"                                "runtime/references"
+"models/research/cv/midas/infer/mxbase/src/Midas.h"           "runtime/references"
+
+"models/research/cv/inception_resnet_v2/infer/mxbase/InceptionResnetV2Classify.h" "runtime/references"
+
+"models/official/cv/LearningToSeeInTheDark/infer/mxbase/src/LearningToSeeInTheDark.h"  "runtime/references"
+
+"models/official/cv/squeezenet/infer/mxbase/src/squeezenetResidual.h"  "runtime/references"
+"models/official/cv/squeezenet/infer/mxbase/src/main.cpp"    "runtime/references"
+
